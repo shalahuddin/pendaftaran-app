@@ -24,11 +24,9 @@ Aplikasi ini adalah aplikasi pendaftaran sederhana yang dibuat menggunakan Larav
 ### 1. Clone atau Copy Project
 
 ```bash
-git clone <repository-url> pendaftaran-app
+git clone https://github.com/shalahuddin/pendaftaran-app.git
 cd pendaftaran-app
 ```
-
-Atau copy folder project `pendaftaran-app` ke laptop lain.
 
 ### 2. Install Dependency Laravel
 
